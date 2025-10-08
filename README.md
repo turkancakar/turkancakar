@@ -1,12 +1,10 @@
 # 👋 Hi! I'm Türkan Çakar  
 
-![Full Stack Developer | Learner | Creator](https://dummyimage.com/500x50/f70776/ffffff&text=Full+Stack+Developer+%7C+Learner+%7C+Creator+%E2%98%95)
 
 🎓 Teacher & 💻 Software Developer  
 ☕ Powered by coffee, fueled by code  
 🚀 Passionate about learning, creating, and sharing! Always striving for the best. 🫶🏻  
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">  
 
 ---
 
