@@ -6,7 +6,6 @@
 ☕ Powered by coffee, fueled by code  
 🚀 Passionate about learning, creating, and sharing! Always striving for the best. 🫶🏻  
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">  
 
 ---
 
