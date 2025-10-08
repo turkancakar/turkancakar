@@ -2,7 +2,8 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7F004E&center=true&vCenter=true&width=600&lines=Software+Developer;Backend%26Frontend;always+code&repeat=true)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7F004E&center=true&vCenter=true&width=600&lines=Software+Developer;Backend+%26+Frontend;Always+Code&repeat=true)
+
 
 
 
