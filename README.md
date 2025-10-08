@@ -2,12 +2,11 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F70776&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Backend%26Frontend+%7C+always+code)
 
-
-
 🎓 Teacher & 💻 Software Developer  
 ☕ Powered by coffee, fueled by code  
 🚀 Passionate about learning, creating, and sharing! Always striving for the best. 🫶🏻  
 
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">  
 
 ---
 
@@ -74,10 +73,13 @@ When I’m not coding, I’m probably debugging… my coffee machine ☕💻
 ## 🎨 Code Style & Principles
 ```javascript
 const developer = {
-    name: "Türkan Çakar", 
-    skills: ["HTML", "CSS", "JavaScript", "React", "Node.js", "Python", 
-             "Java", "Spring Boot", "PostgreSQL", "MongoDB", "Nextjs" ], 
-    passion: "creating flawless web experiences, always",
+    name: "Türkan Çakar",
+    skills: [
+        "HTML", "CSS", "JavaScript", "React", "Node.js", "Python",
+        "Java", "Spring Boot", "PostgreSQL", "MongoDB", "Next.js",
+        "Sass", "Bootstrap", "Docker", "Express"
+    ],
+    passion: "Creating flawless web experiences, always",
     currentFocus: "Full-stack development with modern technologies",
     motto: "Powered by coffee, fueled by code ☕"
 };
