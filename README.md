@@ -1,6 +1,9 @@
 # 👋 Hi! I'm Türkan Çakar  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F70776&center=true&vCenter=true&width=600&%7C+Backend%26Frontend+%7C+always+code)
+
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7F004E&center=true&vCenter=true&width=600&lines=Software+Developer;Backend%26Frontend;always+code&repeat=true)
+
 
 
 🎓 Teacher & 💻 Software Developer  
