@@ -1,11 +1,12 @@
 # 👋 Hi! I'm Türkan Çakar  
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F70776&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%7C+Learner+%7C+Creator+%E2%98%95)
+![Full Stack Developer | Learner | Creator](https://dummyimage.com/500x50/f70776/ffffff&text=Full+Stack+Developer+%7C+Learner+%7C+Creator+%E2%98%95)
 
 🎓 Teacher & 💻 Software Developer  
 ☕ Powered by coffee, fueled by code  
 🚀 Passionate about learning, creating, and sharing! Always striving for the best. 🫶🏻  
 
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">  
 
 ---
 
